@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マルシィ - Drama (Official Lyric Video)",
+  "base_artist": "マルシィ",
+  "createdAt": "2026-03-03T15:10:35.414053Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Drama",
+      "artist": "マルシィ",
+      "has_synced": false,
+      "path": "select/pl_01_Drama_マルシィ.txt"
+    }
+  ]
+}
